@@ -1,0 +1,6 @@
+# ninja log v5
+2	199	7148586932557145	build.ninja	30145371875bac56
+4	50	7148586933194954	CMakeFiles/03_Library.dir/Users.cpp.obj	27a28d9b3fcf5082
+6	309	7148586935795347	CMakeFiles/03_Library.dir/Books.cpp.obj	dc7ce26f7af95fcd
+1	348	7148586936179304	CMakeFiles/03_Library.dir/main.cpp.obj	4966284335128ce3
+348	506	7148586937732126	03_Library.exe	b35e16e3a753d9bd
