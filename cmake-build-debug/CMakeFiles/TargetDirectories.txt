@@ -1,0 +1,3 @@
+C:/Users/demir/CLionProjects/03_Library/cmake-build-debug/CMakeFiles/03_Library.dir
+C:/Users/demir/CLionProjects/03_Library/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/demir/CLionProjects/03_Library/cmake-build-debug/CMakeFiles/rebuild_cache.dir
