@@ -4,7 +4,4 @@ project(03_Library)
 set(CMAKE_CXX_STANDARD 23)
 
 add_executable(03_Library main.cpp
-        Books.cpp
-        Books.h
-        Users.cpp
-        Users.h)
+)

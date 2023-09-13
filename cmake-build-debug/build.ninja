@@ -55,18 +55,6 @@ build CMakeFiles/03_Library.dir/main.cpp.obj: CXX_COMPILER__03_Library_unscanned
   OBJECT_DIR = CMakeFiles\03_Library.dir
   OBJECT_FILE_DIR = CMakeFiles\03_Library.dir
 
-build CMakeFiles/03_Library.dir/Books.cpp.obj: CXX_COMPILER__03_Library_unscanned_Debug C$:/Users/demir/CLionProjects/03_Library/Books.cpp || cmake_object_order_depends_target_03_Library
-  DEP_FILE = CMakeFiles\03_Library.dir\Books.cpp.obj.d
-  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\03_Library.dir
-  OBJECT_FILE_DIR = CMakeFiles\03_Library.dir
-
-build CMakeFiles/03_Library.dir/Users.cpp.obj: CXX_COMPILER__03_Library_unscanned_Debug C$:/Users/demir/CLionProjects/03_Library/Users.cpp || cmake_object_order_depends_target_03_Library
-  DEP_FILE = CMakeFiles\03_Library.dir\Users.cpp.obj.d
-  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\03_Library.dir
-  OBJECT_FILE_DIR = CMakeFiles\03_Library.dir
-
 
 # =============================================================================
 # Link build statements for EXECUTABLE target 03_Library
@@ -75,7 +63,7 @@ build CMakeFiles/03_Library.dir/Users.cpp.obj: CXX_COMPILER__03_Library_unscanne
 #############################################
 # Link the executable 03_Library.exe
 
-build 03_Library.exe: CXX_EXECUTABLE_LINKER__03_Library_Debug CMakeFiles/03_Library.dir/main.cpp.obj CMakeFiles/03_Library.dir/Books.cpp.obj CMakeFiles/03_Library.dir/Users.cpp.obj
+build 03_Library.exe: CXX_EXECUTABLE_LINKER__03_Library_Debug CMakeFiles/03_Library.dir/main.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\03_Library.dir
